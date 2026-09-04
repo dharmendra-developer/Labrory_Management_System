@@ -73,7 +73,7 @@ No external Python libraries are required because the project uses Python's buil
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/LibraryManagementSystem.git
+https://github.com/dharmendra-developer/Labrory_Management_System.git
 ```
 
 ### 2. Open the Project Folder
